@@ -1,4 +1,4 @@
-# 🔐 Flask Password Generator
+# 🔐  Password Generator
 
 A secure, lightweight, and responsive web-based **Random Password Generator** application built with Python and Flask. This project allows users to generate customizable, strong passwords instantly based on their preferred length and criteria.
 
